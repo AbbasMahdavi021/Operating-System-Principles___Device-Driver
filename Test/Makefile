@@ -33,8 +33,8 @@
 # will delete the executable and any object files in your directory.
 #
 
-FIRSTNAME=
-LASTNAME=
+FIRSTNAME=abbas
+LASTNAME=mahdavi
 
 ROOTNAME=$(LASTNAME)_$(FIRSTNAME)_HW
 HW=6

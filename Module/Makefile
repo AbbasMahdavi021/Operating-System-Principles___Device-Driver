@@ -3,7 +3,7 @@ KERNELDIR=/lib/modules/`uname -r`/build
 # This the the Makefile for the device driver (not your demonstration program)
 
 #Change the base name here to your module file name - no extension
-BASENAME=helloworld
+BASENAME=deviceDriver
 
 
 MODULES = $(BASENAME).ko 

@@ -1,0 +1,1 @@
+cmd_/home/student/Documents/A6/csc415-device-driver-AbbasMahdavi021/Module/deviceDriver.mod := { echo  /home/student/Documents/A6/csc415-device-driver-AbbasMahdavi021/Module/deviceDriver.o;  echo; } > /home/student/Documents/A6/csc415-device-driver-AbbasMahdavi021/Module/deviceDriver.mod
