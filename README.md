@@ -44,12 +44,12 @@ This project will be graded based on meeting the following rubric.
 |:------------------------------------------------------------------------|------:|
 |Loadable Device Driver with Functionality as specified                   |	 35   |
 |Correctness of load and unload functions                                 |	 10   |
-|Test  -  user/application interaction with the device driver     	  |  	20  |
-|Inline comments - meaningful describing concepts and functionality       | 	13  |
-|Standard Header a define in all prior projects for each file             |  	2   |
+|Test  -  user/application interaction with the device driver     	      |  20   |
+|Inline comments - meaningful describing concepts and functionality       |  13   |
+|Standard Header a define in all prior projects for each file             |  2    |
 |Write-up of project                                                      |  20   |
 |Write-up includes Screen shots showing all elements of functionality     |       |
-|     (include load and unload as well as application interaction         |     |
+|     (include load and unload as well as application interaction         |       |
 
 	
 
