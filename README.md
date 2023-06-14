@@ -1,4 +1,10 @@
 # CSC415-Device-Driver
+
+**Description**:
+
+Developed a Linux device driver in C with encryption capabilities. Detailed instructions for building, loading, and interacting with the driver, along with output screenshots, are provided in the repository. Supports open, release, read, write, and ioctl commands using printk and copy_to_user functions. Includes a separate user application.
+
+
 **Background**:
 
 The Linux operating system consists of the Kernel some other minor components and then a large number of Device Drivers.  Device drivers are the key to how various hardware devices interface with the computer.
